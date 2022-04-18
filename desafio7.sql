@@ -1,0 +1,1 @@
+SELECT A.nome_artista AS artista FROM SpotifyClone.artist AS A;
