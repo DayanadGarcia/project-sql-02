@@ -1,3 +1,5 @@
+-- Criar o Banco de Dados, as Tabelas e Popular os dados, baseando-se na tabela ja normalizada.
+-- Preencher o arquivo de mapeamento das tabelas e colunas: desafio1.json;
 DROP DATABASE IF EXISTS SpotifyClone;
 
 CREATE DATABASE SpotifyClone;

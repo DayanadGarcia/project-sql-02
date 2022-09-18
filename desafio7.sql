@@ -1,3 +1,8 @@
+-- Mostrar a relacao de todos os albuns produzidos por artistas:
+-- exibir nome do artista (Alias artista);
+-- exibir nome do album (Alias album);
+-- exibir quantidade de pessoas seguidoras do artista (Alias seguidores);
+-- ordenados: decrescente - seguidores ou alfabetica - artista ou album - alfabetica
 SELECT
 Art.nome_artista AS artista,
 Alb.nome_album AS album,
