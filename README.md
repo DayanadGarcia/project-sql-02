@@ -17,7 +17,7 @@
 ## O que foi desenvolvido por mim:
 
 - Na pasta raiz do projeto:
-  - arquivos desafio1.sql a desafio9.sql
+  - arquivos desafio1.sql a desafio11.sql
 
 
 ## Habilidades desenvolvidas:
